@@ -1,0 +1,3 @@
+# Project exclude paths
+/dynamodb-examples/jsv2/node_modules/
+/dynamodb-examples/jsv3/node_modules/
